@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: Sampaul P
-### Reg no: 212224250015
+### Name: Padmapriya R
+### Reg no: 212224250012
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
